@@ -1,2 +1,2 @@
 # content-management
-student marketplace
+NJIT student marketplace(NJIT Business)
