@@ -25,8 +25,7 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 
 - A thread is a set of instructions sent to the CPU to execute. Threading is the process of sending instructions to the CPU to execute. 
  
-Test 2
-# Docker Setup
+# Setup
 
 ## Prerequisites
 - Ensure Docker and Docker Compose are installed on your computer.
@@ -34,6 +33,8 @@ Test 2
 ### Creating a Docker Hub Account
 - Visit [Docker Hub](https://hub.docker.com/) and sign up for an account.
 - Once registered, you can create repositories to store your Docker images.
+
+## Usage
 
 ### Logging into Docker Hub from the Command Line
 - **`docker login`**
