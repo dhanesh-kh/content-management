@@ -14,8 +14,17 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 ## <ins> What is Vertical & Horizontal Scaling in Docker? <ins> 
 
 - Scaling is adjusting the number of containers or power of a machine to balance loads for particular tasks/projects. 
-- <ins>Vertical Scaling<ins> means to add more power to your current machines through upgrading hardware components to improve capabilities.
-- <ins>Horizontal Scaling <ins> means to add more machines to help balance the workload or handle an increased workload.  
+- <u>Vertical Scaling</u> means to add more power to your current machines through upgrading hardware components to improve capabilities.
+- <u>Horizontal Scaling </u> means to add more machines to help balance the workload or handle an increased workload.  
+
+##  What is Virtualization?  
+
+- Virtualization is creating a virtual copy of an entire hardware machine on your own machine. For example, running an Ubuntu OS instance on your Windows computer using VirtualBox.
+
+## What is a Thread?
+
+- A thread is a set of instructions sent to the CPU to execute. Threading is the process of sending instructions to the CPU to execute. 
+ 
 
 # Docker Setup
 
