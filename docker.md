@@ -103,9 +103,9 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 
 - Windows 10 version 2004 or higher or Windows 11
 - Virtualization Enabled in BIOS
- - Restart PC & enter BIOS/UEFI settings by pressing F2,DEl, or ESC  during startup
- - Look for settings Intel VT-x or AMD-V and enable. 
- - Save settings & exit BIOS
+	- Restart PC & enter BIOS/UEFI settings by pressing F2,DEl, or ESC  during startup
+	- Look for settings Intel VT-x or AMD-V and enable. 
+	- Save settings & exit BIOS
 - Internet connection with administrative priveleges
 
 	
