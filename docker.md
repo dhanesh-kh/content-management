@@ -7,6 +7,11 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 
 - A platform where you can build, test, download, and deploy applications in containers.
 - Quick auto scaling: Dynamically scale containers for load balancing and performance improvement. 
+- 
+## <ins> What is Kubernetes? <ins>
+- Platform where containerized apps are managed, deployed, and scaled through automation. 
+- Orchestrates clusters of virtual machines and tasks containers to run on those machines. 
+- Makes workloads portable and run applications through multiple environments with consistency.   
 
 ## <ins> What is a Container & Containerization? <ins> 
 - A container is like a virtual machine, except it doesn't virtualize a whole hardware machine and rather is a software package with dependencies needed to execute software appliciations.
@@ -24,6 +29,18 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 ## What is a Thread?
 
 - A thread is a set of instructions sent to the CPU to execute. Threading is the process of sending instructions to the CPU to execute. 
+
+## Why Choose Docker over Kubernetes?
+
+- Simplicity: Easier, faster to use & setup. Requires less infrastructure & configuration compared to Kubernetes. Ideal for beginners or small scale projects
+
+- Lower costs: Uses less resources. No complex orchestration. No vast clusters needed. 
+
+- Rapid Prototyping: Quickly setup containers without worrying about orchestration
+
+- Seamless CI/CD integration: Works well with CI/CD pipelines in much simpler manner than Kubernetes due to portability, efficiency, and lightweight nature
+
+- Standalone Apps: Great for standalone apps on a single machine 
  
 # Setup
 
