@@ -1,7 +1,9 @@
-# Setup
+# Docker Setup
 
 ## Prerequisites
 - Ensure Docker and Docker Compose are installed on your computer.
+    - [Windows](#installation-windows)
+    - [MacOS](#installation-macos)
 
 ### Creating a Docker Hub Account
 - Visit [Docker Hub](https://hub.docker.com/) and sign up for an account.
