@@ -1,11 +1,18 @@
 # Content Management
-NJIT student marketplace (NJIT Business) - Basically a craigslist exclusively made for NJIT Students to sell textbooks, labcoats, pc parts, etc. 
 
-- [Docker](docker.md)
+**NJIT Student Marketplace (NJIT Business)**  
+A dedicated platform for NJIT students to buy and sell textbooks, lab coats, PC parts, and more — essentially a student-only version of Craigslist.
+
+## Table of Contents
+
+### Docker & GitHub
+- [Docker Overview](docker.md)
 - [Setting up Docker](docker_setup.md)
-- [Setting up Github](github_setup.md)
+- [Setting up GitHub](github_setup.md)
+
+### Additional Topics
 - [Docker vs. Kubernetes](dockervskubernetes.md)
 - [Scaling](scaling.md)
-- [Kernel](kernel-thread.md)
+- [Kernel & Threads](kernel-thread.md)
 - [Virtualization & Containerization](virtualization-containerization.md)
 - [Documentation](documentation.md)
