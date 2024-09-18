@@ -97,7 +97,7 @@ This is a guide to Docker for newcomers interested to learn about the platform.
     - **`docker push john/myfastapi:latest`**
 >
 
-# Install WSL Windows Subsystem For Linux (WSL2) On Windows 10 & 11
+# Install Windows Subsystem For Linux (WSL2) On Windows 10 & 11
 
 ## Prerequisites 
 
@@ -107,5 +107,14 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 	- Look for settings Intel VT-x or AMD-V and enable. 
 	- Save settings & exit BIOS
 - Internet connection with administrative priveleges
+- Virtual machine platform (hyper-v) or virtualization on Windows enabled 
 
+## Installation Procedure
+
+- Open a terminal as Administrator (such as PowerShell)
+- Type the command **`wsl --install`** and hit enter
+- By default, Ubuntu distribution is installed
+- Restart PC if needed
+- Setup username & password for your Ubuntu distribution 
+- Launch Ubuntu terminal by clicking dropdown option in your default terminal  
 	
