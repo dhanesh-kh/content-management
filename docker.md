@@ -1,54 +1,12 @@
 # Docker Guide
-
 This is a guide to Docker for newcomers interested to learn about the platform. 
 
-
 ## <ins> What is Docker? <ins>
-
 - A platform where you can build, test, download, and deploy applications in containers.
 - Quick auto scaling: Dynamically scale containers for load balancing and performance improvement. 
-- 
-## <ins> What is Kubernetes? <ins>
-- Platform where containerized apps are managed, deployed, and scaled through automation. 
-- Orchestrates clusters of virtual machines and tasks containers to run on those machines. 
-- Makes workloads portable and run applications through multiple environments with consistency.   
+- Containerize applications for deployment and storage.
 
-## <ins> What is a Container & Containerization? <ins> 
-- A container is like a virtual machine, except it doesn't virtualize a whole hardware machine and rather is a software package with dependencies needed to execute software appliciations.
-
-## <ins> What is Vertical & Horizontal Scaling in Docker? <ins> 
-
-- Scaling is adjusting the number of containers or power of a machine to balance loads for particular tasks/projects. 
-- <u>Vertical Scaling</u> means to add more power to your current machines through upgrading hardware components to improve capabilities.
-- <u>Horizontal Scaling </u> means to add more machines to help balance the workload or handle an increased workload.  
-
-##  What is Virtualization?  
-
-- Virtualization is creating a virtual copy of an entire hardware machine on your own machine. For example, running an Ubuntu OS instance on your Windows computer using VirtualBox.
-
-## What is a Thread?
-
-- A thread is a set of instructions sent to the CPU to execute. Threading is the process of sending instructions to the CPU to execute. 
-
-## What is a Kernel?
-
-- The kernel is the core part of the operating system that controls the computer's hardware.
-- Connects apps and hardware, like CPU and memory.
-- Isolation: Docker uses the kernel to keep containers separate from each other while using the same system.
-
-## Why Choose Docker over Kubernetes?
-
-- Simplicity: Easier, faster to use & setup. Requires less infrastructure & configuration compared to Kubernetes. Ideal for beginners or small scale projects
-
-- Lower costs: Uses less resources. No complex orchestration. No vast clusters needed. 
-
-- Rapid Prototyping: Quickly setup containers without worrying about orchestration
-
-- Seamless CI/CD integration: Works well with CI/CD pipelines in much simpler manner than Kubernetes due to portability, efficiency, and lightweight nature
-
-- Standalone Apps: Great for standalone apps on a single machine 
-
-## Usage
+## Docker Usage
 
 ### Logging into Docker Hub from the Command Line
 - **`docker login`**
