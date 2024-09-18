@@ -1,6 +1,6 @@
 # Docker Setup
 
-## Prerequisites
+### Prerequisites
 - Ensure Docker and Docker Compose are installed on your computer.
     - [Windows](#installation-windows)
     - [MacOS](#installation-macos)
