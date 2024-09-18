@@ -7,6 +7,11 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 
 - A platform where you can build, test, download, and deploy applications in containers.
 - Quick auto scaling: Dynamically scale containers for load balancing and performance improvement. 
+- 
+## <ins> What is Kubernetes? <ins>
+- Platform where containerized apps are managed, deployed, and scaled through automation. 
+- Orchestrates clusters of virtual machines and tasks containers to run on those machines. 
+- Makes workloads portable and run applications through multiple environments with consistency.   
 
 ## <ins> What is a Container & Containerization? <ins> 
 - A container is like a virtual machine, except it doesn't virtualize a whole hardware machine and rather is a software package with dependencies needed to execute software appliciations.
@@ -24,6 +29,24 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 ## What is a Thread?
 
 - A thread is a set of instructions sent to the CPU to execute. Threading is the process of sending instructions to the CPU to execute. 
+
+## What is a Kernel?
+
+- The kernel is the core part of the operating system that controls the computer's hardware.
+- Connects apps and hardware, like CPU and memory.
+- Isolation: Docker uses the kernel to keep containers separate from each other while using the same system.
+
+## Why Choose Docker over Kubernetes?
+
+- Simplicity: Easier, faster to use & setup. Requires less infrastructure & configuration compared to Kubernetes. Ideal for beginners or small scale projects
+
+- Lower costs: Uses less resources. No complex orchestration. No vast clusters needed. 
+
+- Rapid Prototyping: Quickly setup containers without worrying about orchestration
+
+- Seamless CI/CD integration: Works well with CI/CD pipelines in much simpler manner than Kubernetes due to portability, efficiency, and lightweight nature
+
+- Standalone Apps: Great for standalone apps on a single machine 
  
 # Setup
 
@@ -79,3 +102,78 @@ This is a guide to Docker for newcomers interested to learn about the platform.
   - For example:
     - **`docker push john/myfastapi:latest`**
 >
+
+# Install Windows Subsystem For Linux (WSL2) On Windows 10 & 11
+
+## Prerequisites 
+
+- Windows 10 version 2004 or higher or Windows 11
+- Virtualization Enabled in BIOS
+	- Restart PC & enter BIOS/UEFI settings by pressing F2,DEl, or ESC  during startup
+	- Look for settings Intel VT-x or AMD-V and enable. 
+	- Save settings & exit BIOS
+- Internet connection with administrative priveleges
+- Virtual machine platform (hyper-v) or virtualization on Windows enabled 
+
+## Installation Procedure
+
+- Open a terminal as Administrator (such as PowerShell)
+- Type the command **`wsl --install`** and hit enter
+- By default, Ubuntu distribution is installed
+- Restart PC if needed
+- Setup username & password for your Ubuntu distribution 
+- Launch Ubuntu terminal by clicking dropdown option in your default terminal  
+	
+## Installation (macOS)
+
+### Prerequisites
+
+#### Mac with Intel chip
+- [Docker Desktop for Mac with Intel chip](https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64&_gl=1*3asmt6*_gcl_au*MTk4MjUzOTE5NC4xNzI2MDY0NjIz*_ga*MjEyMDgxMjcwMy4xNzI1NjMyNzQ4*_ga_XJWPQMJYHQ*MTcyNjY2ODQ3MS40LjEuMTcyNjY2ODUyNS42LjAuMA..)
+- A supported version of macOS.
+- At least 4 GB of RAM.
+#### Mac with Apple silicon
+- [Docker Desktop for Mac with Apple silicon](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64&_gl=1*t4tomt*_gcl_au*MTk4MjUzOTE5NC4xNzI2MDY0NjIz*_ga*MjEyMDgxMjcwMy4xNzI1NjMyNzQ4*_ga_XJWPQMJYHQ*MTcyNjY2ODQ3MS40LjEuMTcyNjY2ODUyNS42LjAuMA..)
+- (optional) install Rosetta 2 for command line tools
+- To install Rosetta 2 manually from the command line, run the following command:
+  - **`softwareupdate --install-rosetta`**
+
+### Install
+- Download the installer using the download button for your respective processor.
+- Double-click `Docker.dmg` to open the installer, then drag the Docker icon to the Applications folder. By default, Docker Desktop is installed at `/Applications/Docker.app`.
+- Double-click `Docker.app` in the Applications folder to start Docker.
+
+Here's a simple README template for GitHub collaboration steps:
+
+---
+
+## Github
+
+### Prerequisites
+- [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Create a GitHub account](https://github.com/)
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+### Create a New Branch
+```bash
+git checkout -b your-branch-name
+```
+
+### Commit and Push Changes
+```bash
+git add .
+git commit -m "Brief description of changes"
+git push origin your-branch-name
+```
+
+### Create a Pull Request
+1. Go to the repository on GitHub.
+2. Click on "Pull Requests" > "New Pull Request".
+3. Select your branch and submit the pull request.
+
+---
