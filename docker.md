@@ -30,6 +30,12 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 
 - A thread is a set of instructions sent to the CPU to execute. Threading is the process of sending instructions to the CPU to execute. 
 
+## What is a Kernel?
+
+- The kernel is the core part of the operating system that controls the computer's hardware.
+- Connects apps and hardware, like CPU and memory.
+- Isolation: Docker uses the kernel to keep containers separate from each other while using the same system.
+
 ## Why Choose Docker over Kubernetes?
 
 - Simplicity: Easier, faster to use & setup. Requires less infrastructure & configuration compared to Kubernetes. Ideal for beginners or small scale projects
@@ -136,3 +142,38 @@ This is a guide to Docker for newcomers interested to learn about the platform.
 - Download the installer using the download button for your respective processor.
 - Double-click `Docker.dmg` to open the installer, then drag the Docker icon to the Applications folder. By default, Docker Desktop is installed at `/Applications/Docker.app`.
 - Double-click `Docker.app` in the Applications folder to start Docker.
+
+Here's a simple README template for GitHub collaboration steps:
+
+---
+
+## Github
+
+### Prerequisites
+- [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Create a GitHub account](https://github.com/)
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+### Create a New Branch
+```bash
+git checkout -b your-branch-name
+```
+
+### Commit and Push Changes
+```bash
+git add .
+git commit -m "Brief description of changes"
+git push origin your-branch-name
+```
+
+### Create a Pull Request
+1. Go to the repository on GitHub.
+2. Click on "Pull Requests" > "New Pull Request".
+3. Select your branch and submit the pull request.
+
+---
