@@ -35,4 +35,6 @@ To propose changes and request that they be merged into the main codebase:
 2. Click on **"Pull Requests"** > **"New Pull Request"**.
 3. Select your branch and submit the pull request.
 
+![github_terminal_is373ss](https://github.com/user-attachments/assets/0004644f-a722-4c39-89dd-34c62a622b05)
+
 ---
