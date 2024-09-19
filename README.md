@@ -10,6 +10,7 @@ Tools and guides for working with Docker containers and GitHub repositories.
 
 - [Docker Overview](docker.md)  
   A general overview of Docker and how to use it.
+![Docker Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
 - [Setting up GitHub](github_setup.md)  
