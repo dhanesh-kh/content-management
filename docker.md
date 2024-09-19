@@ -78,3 +78,4 @@ docker-compose build
     ```bash
     docker push john/myapp:latest
     ```
+![Docker Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
