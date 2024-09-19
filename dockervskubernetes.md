@@ -4,8 +4,7 @@
 - Quick auto scaling: Dynamically scale containers for load balancing and performance improvement.
 - Containerize applications for deployment and storage
 
-![Docker and Github Integration](https://i.ytimg.com/vi/k13j5aKtuDU/maxresdefault.jpg)
-
+![Docker Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
 ## <ins> What is Kubernetes? <ins>
 - Platform where containerized apps are managed, deployed, and scaled through automation.
 - Orchestrates clusters of virtual machines and tasks containers to run on those machines.
