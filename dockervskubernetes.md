@@ -3,11 +3,14 @@
 - A platform where you can build, test, download, and deploy applications in containers.
 - Quick auto scaling: Dynamically scale containers for load balancing and performance improvement.
 - Containerize applications for deployment and storage
+
+![Docker and Github Integration](https://i.ytimg.com/vi/k13j5aKtuDU/maxresdefault.jpg)
+
 ## <ins> What is Kubernetes? <ins>
 - Platform where containerized apps are managed, deployed, and scaled through automation.
 - Orchestrates clusters of virtual machines and tasks containers to run on those machines.
 - Makes workloads portable and run applications through multiple environments with consistency.
-
+![Kubernetes Architecture](https://platform9.com/wp-content/uploads/2019/05/kubernetes-constructs-concepts-architecture.jpg)
 
 ## Why Choose Docker over Kubernetes?
 - Simplicity: Easier, faster to use & setup. Requires less infrastructure & configuration compared to Kubernetes. Ideal for beginners or small scale projects
