@@ -1,0 +1,25 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install markdownlint
+      run: |
+        npm install -g markdownlint-cli
+
+    - name: Lint Markdown files
+      run: |
+        markdownlint "**/*.md"
