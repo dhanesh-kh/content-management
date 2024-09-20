@@ -15,6 +15,15 @@ Tools and guides for working with Docker containers and GitHub repositories.
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
 
+### System Foundations
+
+Foundational topics like operating systems, virtualization, and containerization.
+
+- [Kernel & Threads](kernel-thread.md)  
+  Deep dive into how the kernel manages threads in an operating system.
+- [Virtualization & Containerization](virtualization-containerization.md)  
+  Understanding the differences and use cases for virtualization vs. containerization.
+
 ### Architecture & Scaling
 
 Topics related to system architecture and scaling.
@@ -24,14 +33,6 @@ Topics related to system architecture and scaling.
 - [Scaling](scaling.md)  
   Best practices and strategies for scaling applications efficiently.
 
-### System Foundations
-
-Foundational topics like operating systems, virtualization, and containerization.
-
-- [Kernel & Threads](kernel-thread.md)  
-  Deep dive into how the kernel manages threads in an operating system.
-- [Virtualization & Containerization](virtualization-containerization.md)  
-  Understanding the differences and use cases for virtualization vs. containerization.
 ### Documentation & References
 
 - [Documentation](documentation.md)  
