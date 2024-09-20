@@ -5,7 +5,7 @@ and looking at prerequisites for Windows and/or macOS.
 
 ## Prerequisites
 
-Ensure Docker and Docker Compose are installed on your computer. 
+Ensure Docker and Docker Compose are installed on your computer.
 Follow the instructions for your specific operating system:
 
 - [Windows Installation](#installation-windows)
@@ -25,9 +25,9 @@ Follow the instructions for your specific operating system:
   - Restart your PC and enter BIOS/UEFI settings (press F2, DEL, or ESC during startup).
   - Enable Intel VT-x or AMD-V.
   - Save changes and exit BIOS.
-- **Administrative Privileges**: 
+- **Administrative Privileges**:
 Ensure you have an internet connection with administrative privileges.
-- **Virtualization Platform**: 
+- **Virtualization Platform**:
 Enable Hyper-V or another virtualization platform on Windows.
 
 ### Installation Procedure (Windows)
@@ -75,5 +75,6 @@ Enable Hyper-V or another virtualization platform on Windows.
    Docker Desktop will be installed at `/Applications/Docker.app`.
 3. **Start Docker**:
    - Double-click `Docker.app` in the Applications folder to start Docker.
+   
 ![Docker For MACOS Picture](https://www.docker.com/wp-content/uploads/2021/04/docker-desktop-m1.jpg)
 ---
