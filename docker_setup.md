@@ -1,10 +1,12 @@
 # Docker Setup
 
-Docker setup involves creating a Docker Hub account, installing Docker Desktop, and looking at prerequisites for Windows and/or macOS.
+Docker setup involves creating a Docker Hub account, installing Docker Desktop,
+and looking at prerequisites for Windows and/or macOS.
 
 ## Prerequisites
 
-Ensure Docker and Docker Compose are installed on your computer. Follow the instructions for your specific operating system:
+Ensure Docker and Docker Compose are installed on your computer. 
+Follow the instructions for your specific operating system:
 
 - [Windows Installation](#installation-windows)
 - [macOS Installation](#installation-macos)
@@ -16,17 +18,19 @@ Ensure Docker and Docker Compose are installed on your computer. Follow the inst
 
 ## Installation (Windows)
 
-### Prerequisites
+### Prerequisites (Windows)
 
 - **Operating System**: Windows 10 version 2004 or higher, or Windows 11.
 - **Virtualization**: Enable virtualization in BIOS/UEFI:
   - Restart your PC and enter BIOS/UEFI settings (press F2, DEL, or ESC during startup).
   - Enable Intel VT-x or AMD-V.
   - Save changes and exit BIOS.
-- **Administrative Privileges**: Ensure you have an internet connection with administrative privileges.
-- **Virtualization Platform**: Enable Hyper-V or another virtualization platform on Windows.
+- **Administrative Privileges**: 
+Ensure you have an internet connection with administrative privileges.
+- **Virtualization Platform**: 
+Enable Hyper-V or another virtualization platform on Windows.
 
-### Installation Procedure
+### Installation Procedure (Windows)
 
 1. **Install WSL2**:
    - Open PowerShell as Administrator.
@@ -47,7 +51,7 @@ Ensure Docker and Docker Compose are installed on your computer. Follow the inst
 
 ## Installation (macOS)
 
-### Prerequisites
+### Prerequisites (macOS)
 
 - **Mac with Intel Chip**:
   - A supported version of macOS.
@@ -59,14 +63,16 @@ Ensure Docker and Docker Compose are installed on your computer. Follow the inst
   softwareupdate --install-rosetta
   ```
 
-### Installation Procedure
+### Installation Procedure (macOS)
+
 1. **Download Docker Desktop**:
    - Choose the installer for your processor:
      - [For Intel chips](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64&_gl=1*t4tomt*_gcl_au*MTk4MjUzOTE5NC4xNzI2MDY0NjIz*_ga*MjEyMDgxMjcwMy4xNzI1NjMyNzQ4*_ga_XJWPQMJYHQ*MTcyNjY2ODQ3MS40LjEuMTcyNjY2ODUyNS42LjAuMA..)
      - [For Apple Silicon](https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64&_gl=1*3asmt6*_gcl_au*MTk4MjUzOTE5NC4xNzI2MDY0NjIz*_ga*MjEyMDgxMjcwMy4xNzI1NjMyNzQ4*_ga_XJWPQMJYHQ*MTcyNjY2ODQ3MS40LjEuMTcyNjY2ODUyNS42LjAuMA..)
 2. **Install Docker**:
    - Double-click `Docker.dmg` to open the installer.
-   - Drag the Docker icon to the Applications folder. Docker Desktop will be installed at `/Applications/Docker.app`.
+   - Drag the Docker icon to the Applications folder.
+   Docker Desktop will be installed at `/Applications/Docker.app`.
 3. **Start Docker**:
    - Double-click `Docker.app` in the Applications folder to start Docker.
 ![Docker For MACOS Picture](https://www.docker.com/wp-content/uploads/2021/04/docker-desktop-m1.jpg)
