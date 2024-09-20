@@ -8,12 +8,12 @@ A dedicated platform for NJIT students to buy and sell textbooks, lab coats, PC 
 
 Tools and guides for working with Docker containers and GitHub repositories.
 
+- [Setting up GitHub](github_setup.md)  
+  Instructions for getting started with Github.
 - [Docker Overview](docker.md)  
   A general overview of Docker and how to use it.
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
-- [Setting up GitHub](github_setup.md)  
-  Instructions for getting started with Github.
 
 ### Architecture & Scaling
 
