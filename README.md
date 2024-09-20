@@ -23,7 +23,6 @@ Topics related to system architecture and scaling.
   Comparison of Docker and Kubernetes in terms of container orchestration.
 - [Scaling](scaling.md)  
   Best practices and strategies for scaling applications efficiently.
-
 ### System Foundations
 
 Foundational topics like operating systems, virtualization, and containerization.
@@ -32,7 +31,6 @@ Foundational topics like operating systems, virtualization, and containerization
   Deep dive into how the kernel manages threads in an operating system.
 - [Virtualization & Containerization](virtualization-containerization.md)  
   Understanding the differences and use cases for virtualization vs. containerization.
-
 ### Documentation & References
 
 - [Documentation](documentation.md)  
