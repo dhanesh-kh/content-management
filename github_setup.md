@@ -1,11 +1,15 @@
 # GitHub Setup
 
-GitHub is a platform for version control and collaboration that allows you to manage and store your code repositories using Git. It enables you to collaborate on projects, track changes, and review code efficiently.
+GitHub is a platform for version control and collaboration that allows you to
+manage and store your code repositories using Git.
+It enables you to collaborate on projects,
+track changes, and review code efficiently.
 
 ## Prerequisites
 
 1. **Install Git**:
-   - Follow the instructions to [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your system.
+   - Follow the instructions to
+   [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your system.
    
 2. **Create a GitHub Account**:
    - Sign up for a [GitHub account](https://github.com/) if you don't already have one.

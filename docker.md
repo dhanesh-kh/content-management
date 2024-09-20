@@ -1,22 +1,30 @@
 # Docker Guide
 
-This guide provides an introduction to Docker, focusing on basic commands and usage.
+This guide provides an introduction to Docker,
+focusing on basic commands and usage.
 
 ## What is Docker?
 
-Docker is a platform that allows developers to build, test, and deploy applications in isolated containers. Key features include:
+Docker is a platform that allows developers to build,
+test, and deploy applications in isolated containers. Key features include:
 
-- **Containerization**: Package applications and their dependencies for consistent deployment across environments.
+- **Containerization**: Package applications and their dependencies
+for consistent deployment across environments.
 
-- **Auto Scaling**: Dynamically scale containers for load balancing and improved performance.
+- **Auto Scaling**: Dynamically scale containers for
+load balancing and improved performance.
 
 ## What is a Docker Image?
 
-A Docker image is a lightweight, standalone, and executable software package that includes everything needed to run an application. Key features of Docker images:
+A Docker image is a lightweight, standalone, and executable software package
+that includes everything needed to run an application.
+Key features of Docker images:
 
-- **Immutability**: Docker images are read-only and cannot be altered after creation.
+- **Immutability**: Docker images are read-only
+and cannot be altered after creation.
 
-- **Portability**: Docker images can be shared across different environments, ensuring consistent application behavior.
+- **Portability**: Docker images can be shared across different environments,
+ensuring consistent application behavior.
 
 ## Docker Commands
 

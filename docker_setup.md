@@ -75,6 +75,7 @@ Enable Hyper-V or another virtualization platform on Windows.
    Docker Desktop will be installed at `/Applications/Docker.app`.
 3. **Start Docker**:
    - Double-click `Docker.app` in the Applications folder to start Docker.
-   
+
 ![Docker For MACOS Picture](https://www.docker.com/wp-content/uploads/2021/04/docker-desktop-m1.jpg)
+
 ---

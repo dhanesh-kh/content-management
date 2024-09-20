@@ -1,6 +1,7 @@
 # Documentation & Resources
 
-The following are links to external resources such as documentation, blogs, repositories, and more for further clarification and knowledge:
+The following are links to external resources such as documentation,
+blogs, repositories, and more for further clarification and knowledge:
 
 - [Docker Docs](https://docs.docker.com/desktop/)
 - [Github Docs](https://docs.github.com/en)
