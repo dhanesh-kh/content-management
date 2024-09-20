@@ -78,3 +78,4 @@ docker-compose build
     ```bash
     docker push john/myapp:latest
     ```
+![Docker and Github Integration](https://i.ytimg.com/vi/k13j5aKtuDU/maxresdefault.jpg)
