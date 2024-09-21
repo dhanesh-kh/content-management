@@ -5,6 +5,8 @@
 A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
 PC parts, and more — essentially a student-only version of Craigslist.
 
+## Guidelines for Development and Deployment
+
 ### Table of Contents
 
 1. [Introduction](#introduction)
@@ -44,7 +46,7 @@ about system configurations or compatibility issues.
 
 ---
 
-### Setup Guides
+### Environment Preparation
 
 Now that you understand the importance of these tools,
 follow the steps below to set them up:
