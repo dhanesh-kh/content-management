@@ -1,6 +1,8 @@
 # The 12-Factor App
 
-The **12-Factor App** is a methodology for building modern, scalable, and maintainable software-as-a-service (SaaS) applications. It emphasizes the following principles:
+The **12-Factor App** is a methodology for building
+modern, scalable, and maintainable software-as-a-service (SaaS) applications.
+It emphasizes the following principles:
 
 1. **Codebase**: One codebase tracked in version control, many deploys.
 2. **Dependencies**: Explicitly declare and isolate dependencies.
@@ -11,7 +13,8 @@ The **12-Factor App** is a methodology for building modern, scalable, and mainta
 7. **Port binding**: Export services via port binding.
 8. **Concurrency**: Scale out via the process model.
 9. **Disposability**: Maximize robustness with fast startup and graceful shutdown.
-10. **Dev/prod parity**: Keep development, staging, and production as similar as possible.
+10. **Dev/prod parity**: Keep development, staging, and production
+as similar as possible.
 11. **Logs**: Treat logs as event streams.
 12. **Admin processes**: Run admin/management tasks as one-off processes.
 
