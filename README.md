@@ -13,7 +13,7 @@ PC parts, and more — essentially a student-only version of Craigslist.
 2. [Getting Started](#getting-started)
     - [Why Learn Git?](#why-learn-git)
     - [Why Learn Docker?](#why-learn-docker)
-    - [Setup Guides](#setup-guides)
+    - [Environment Preparation](#environment-preparation)
 3. [System Foundations](#system-foundations)
 4. [Architecture & Scaling](#architecture--scaling)
 5. [Business Function & Industry Relevance](#business-function--industry-relevance)
