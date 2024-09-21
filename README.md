@@ -5,13 +5,15 @@
 A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
 PC parts, and more — essentially a student-only version of Craigslist.
 
+## Guidelines for Development and Deployment
+
 ### Table of Contents
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
     - [Why Learn Git?](#why-learn-git)
     - [Why Learn Docker?](#why-learn-docker)
-    - [Setup Guides](#setup-guides)
+    - [Environment Preparation](#environment-preparation)
 3. [System Foundations](#system-foundations)
 4. [Architecture & Scaling](#architecture--scaling)
 5. [Business Function & Industry Relevance](#business-function--industry-relevance)
@@ -44,7 +46,7 @@ about system configurations or compatibility issues.
 
 ---
 
-### Setup Guides
+### Environment Preparation
 
 Now that you understand the importance of these tools,
 follow the steps below to set them up:
