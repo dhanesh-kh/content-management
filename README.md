@@ -34,6 +34,11 @@ Topics related to system architecture and scaling.
 - [Scaling](scaling.md)  
   Best practices and strategies for scaling applications efficiently.
 
+### Business Function & Industry Relevance 
+
+- [Docker's Business Contributions](docker_role_in_industry.md)
+- [Kubernete's Business Contributions](kubernetes_role_in_industry.md)
+ 
 ### Documentation & References
 
 - [Documentation](documentation.md)  
