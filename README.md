@@ -1,6 +1,11 @@
 # NJIT Student Marketplace (NJIT Business)
 
-## Table of Contents
+## Introduction
+
+A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
+PC parts, and more — essentially a student-only version of Craigslist.
+
+### Table of Contents
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
@@ -11,11 +16,6 @@
 4. [Architecture & Scaling](#architecture--scaling)
 5. [Business Function & Industry Relevance](#business-function--industry-relevance)
 6. [Documentation & References](#documentation--references)
-
-### Introduction
-
-A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
-PC parts, and more — essentially a student-only version of Craigslist.
 
 ### Getting Started
 
@@ -62,6 +62,8 @@ follow the steps below to set them up:
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
 
+---
+
 ### System Foundations
 
 Foundational topics like operating systems, virtualization,
@@ -96,12 +98,12 @@ driving business operations and enhancing industry practices.
   Understanding how Kubernetes contributes
   to industry scalability and business functions.
 
+---
+
 ### Documentation & References
 
 - [Documentation](documentation.md)  
   Links to various resources related to the topics covered above.
-
----
 
 #### Contributors
 
