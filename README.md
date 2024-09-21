@@ -1,6 +1,11 @@
 # NJIT Student Marketplace (NJIT Business)
 
-## Table of Contents
+## Introduction
+
+A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
+PC parts, and more — essentially a student-only version of Craigslist.
+
+### Table of Contents
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
@@ -11,11 +16,6 @@
 4. [Architecture & Scaling](#architecture--scaling)
 5. [Business Function & Industry Relevance](#business-function--industry-relevance)
 6. [Documentation & References](#documentation--references)
-
-### Introduction
-
-A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
-PC parts, and more — essentially a student-only version of Craigslist.
 
 ### Getting Started
 
