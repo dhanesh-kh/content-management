@@ -62,6 +62,8 @@ follow the steps below to set them up:
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
 
+---
+
 ### System Foundations
 
 Foundational topics like operating systems, virtualization,
@@ -96,12 +98,12 @@ driving business operations and enhancing industry practices.
   Understanding how Kubernetes contributes
   to industry scalability and business functions.
 
+---
+
 ### Documentation & References
 
 - [Documentation](documentation.md)  
   Links to various resources related to the topics covered above.
-
----
 
 #### Contributors
 
