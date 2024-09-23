@@ -47,7 +47,8 @@ Enable Hyper-V or another virtualization platform on Windows.
 - [Docker Desktop for Windows (x86_64)](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*ob2okp*_gcl_au*MTk4MjUzOTE5NC4xNzI2MDY0NjIz*_ga*MjEyMDgxMjcwMy4xNzI1NjMyNzQ4*_ga_XJWPQMJYHQ*MTcyNjY4MDQ2OC42LjEuMTcyNjY4MDQ4OS4zOS4wLjA.)
 - [Docker Desktop for Windows (Arm, Beta)](https://desktop.docker.com/win/main/arm64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-arm64&_gl=1*1sw13m4*_gcl_au*MTk4MjUzOTE5NC4xNzI2MDY0NjIz*_ga*MjEyMDgxMjcwMy4xNzI1NjMyNzQ4*_ga_XJWPQMJYHQ*MTcyNjY4MDQ2OC42LjEuMTcyNjY4MDQ4OS4zOS4wLjA.)
 
-![Docker for Windows Pictures](https://cdn.hashnode.com/res/hashnode/image/upload/v1627716953958/2F1xoBx1Y.png)
+![Docker For Windows](https://github.com/user-attachments/assets/25527e51-215a-4962-b33f-1f02d14b95ec)
+
 
 ## Installation (macOS)
 
