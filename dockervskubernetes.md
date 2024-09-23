@@ -6,7 +6,8 @@ and deploy applications in containers.
 for load balancing and performance improvement.
 - Containerize applications for deployment and storage.
 
-![Docker Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
+![Docker Architecture](https://github.com/user-attachments/assets/dc53c6c0-0e5c-4a25-a4f5-399f4bc93442)
+
 
 ## What is Kubernetes?
 
