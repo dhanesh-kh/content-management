@@ -59,10 +59,10 @@ follow the steps below to set them up:
 
 #### Docker Setup
 
-- [Docker Overview](docker.md)  
-  A general introduction to Docker and its core concepts.
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
+- [Docker Overview](docker.md)  
+  A general introduction to Docker and its core concepts.
 
 ---
 
