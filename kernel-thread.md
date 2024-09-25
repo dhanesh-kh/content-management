@@ -6,7 +6,8 @@ that controls the computer's hardware.
 - **Isolation**: Docker uses the kernel to keep containers separate
 from each other while using the same system.
 
-![Kernel Diagram](https://i.sstatic.net/soe8E.jpg)
+![Kernel Diagram](https://github.com/user-attachments/assets/29f6f0cf-2a7e-4a15-80db-81afb994b794)
+
 
 ## What is a Thread?
 
