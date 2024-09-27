@@ -49,7 +49,6 @@ Enable Hyper-V or another virtualization platform on Windows.
 
 ![Docker For Windows](https://github.com/user-attachments/assets/25527e51-215a-4962-b33f-1f02d14b95ec)
 
-
 ## Installation (macOS)
 
 ### Prerequisites (macOS)

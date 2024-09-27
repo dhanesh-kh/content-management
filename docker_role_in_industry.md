@@ -10,12 +10,18 @@ businesses thanks to lightweight & easy packaging and delivery of software.
 to most systems, Docker removes compatibility concerns
 in many industry environments
 
+## Docker's Business Model
 
-# Docker's Business Model
-- Through key products & services like Docker Desktop, Docker Hub, Docker Engine, and more, Docker created ways to help developers and comapanies in general package and deploy applications faster through containerization 
-- With plans for all types of parties, Docker lets organizations subscribe to services catered to their needs 
+- Through key products & services like Docker Desktop,
+Docker Hub, Docker Engine, and more, Docker created ways
+to help developers and comapanies in general package
+and deploy applications faster through containerization
 
-- Docker targets various markets such as large enterprises, small businesses, individual developers, and more
+- With plans for all types of parties,
+Docker lets organizations subscribe to services catered to their needs
 
-- Through partnerships with various parties such as AWS, Docker is able to greatly expand its services with collaboration and innovation  
+- Docker targets various markets such as large enterprises,
+small businesses, individual developers, and more
 
+- Through partnerships with various parties such as AWS, Docker is
+able to greatly expand its services with collaboration and innovation
