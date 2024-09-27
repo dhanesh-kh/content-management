@@ -14,6 +14,8 @@ from each other while using the same system.
 - A thread is a set of instructions sent to the CPU to execute.
 Threading is the process of sending instructions to the CPU to execute.
 
-![Thread Diagram](https://www.krivalar.com/picture/OpSys/multi-thread-in-OS.jpg)
+ ![Thread  ](https://github.com/user-attachments/assets/fd03c896-9c18-4a5e-921d-169346066f6e)
+ 
+
 
 ---
