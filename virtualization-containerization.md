@@ -14,5 +14,4 @@ the dependencies needed to execute software applications.
 
 ![IS373 Viruatlization Containerization Diagram ](https://github.com/user-attachments/assets/8a19e394-7340-4b20-8274-0657bc39bbe0)
 
-
 ---
