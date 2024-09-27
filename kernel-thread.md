@@ -8,14 +8,11 @@ from each other while using the same system.
 
 ![Kernel Diagram](https://github.com/user-attachments/assets/29f6f0cf-2a7e-4a15-80db-81afb994b794)
 
-
 ## What is a Thread?
 
 - A thread is a set of instructions sent to the CPU to execute.
 Threading is the process of sending instructions to the CPU to execute.
 
- ![Thread  ](https://github.com/user-attachments/assets/fd03c896-9c18-4a5e-921d-169346066f6e)
- 
-
+ ![Thread](https://github.com/user-attachments/assets/fd03c896-9c18-4a5e-921d-169346066f6e)
 
 ---

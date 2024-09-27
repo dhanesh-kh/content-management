@@ -49,7 +49,6 @@ Enable Hyper-V or another virtualization platform on Windows.
 
 ![Docker For Windows](https://github.com/user-attachments/assets/25527e51-215a-4962-b33f-1f02d14b95ec)
 
-
 ## Installation (macOS)
 
 ### Prerequisites (macOS)
@@ -77,6 +76,6 @@ Enable Hyper-V or another virtualization platform on Windows.
 3. **Start Docker**:
    - Double-click `Docker.app` in the Applications folder to start Docker.
 
-![Docker For MACOS Picture](https://cdn.discordapp.com/attachments/1286027031284420674/1288503244812845206/image.png?ex=66f56ba8&is=66f41a28&hm=c24e3a6d43a3771d9e71b639da565b5f8d9a4f69e2082a08ed68d6a8f609bebd&)
+![Docker For MACOS Picture](https://github.com/user-attachments/assets/c97d4781-ac0c-433b-b9bf-6226025ece88)
 
 ---

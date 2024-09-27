@@ -8,7 +8,6 @@ for load balancing and performance improvement.
 
 ![Docker Architecture](https://github.com/user-attachments/assets/dc53c6c0-0e5c-4a25-a4f5-399f4bc93442)
 
-
 ## What is Kubernetes?
 
 - A platform where containerized apps are managed,
@@ -19,7 +18,6 @@ and tasks containers to run on those machines.
 through multiple environments with consistency.
 
 ![Kubernetes architecture](https://github.com/user-attachments/assets/3bdce5ff-5c93-4638-9aa4-53b0d82e3f99)
-
 
 ## Why Choose Docker over Kubernetes?
 
