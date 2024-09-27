@@ -116,6 +116,6 @@ docker-compose build
     docker push john/myapp:latest
     ```
 
-![Docker and Github Integration](https://i.ytimg.com/vi/k13j5aKtuDU/maxresdefault.jpg)
+![Docker and Github Integration](https://github.com/user-attachments/assets/5895669c-a6fb-4ef9-8973-eb018c87a9a7)
 
 ---
