@@ -6,7 +6,8 @@ and deploy applications in containers.
 for load balancing and performance improvement.
 - Containerize applications for deployment and storage.
 
-![Docker Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
+![Docker Architecture](https://github.com/user-attachments/assets/dc53c6c0-0e5c-4a25-a4f5-399f4bc93442)
+
 
 ## What is Kubernetes?
 
@@ -17,7 +18,8 @@ and tasks containers to run on those machines.
 - Makes workloads portable and runs applications
 through multiple environments with consistency.
 
-![Kubernetes Architecture](https://platform9.com/wp-content/uploads/2019/05/kubernetes-constructs-concepts-architecture.jpg)
+![Kubernetes architecture](https://github.com/user-attachments/assets/3bdce5ff-5c93-4638-9aa4-53b0d82e3f99)
+
 
 ## Why Choose Docker over Kubernetes?
 

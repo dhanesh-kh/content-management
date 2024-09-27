@@ -1,21 +1,23 @@
 # NJIT Student Marketplace (NJIT Business)
 
-## Table of Contents
+## Introduction
+
+A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
+PC parts, and more — essentially a student-only version of Craigslist.
+
+## Guidelines for Development and Deployment
+
+### Table of Contents
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
     - [Why Learn Git?](#why-learn-git)
     - [Why Learn Docker?](#why-learn-docker)
-    - [Setup Guides](#setup-guides)
+    - [Environment Preparation](#environment-preparation)
 3. [System Foundations](#system-foundations)
 4. [Architecture & Scaling](#architecture--scaling)
 5. [Business Function & Industry Relevance](#business-function--industry-relevance)
 6. [Documentation & References](#documentation--references)
-
-### Introduction
-
-A dedicated platform for NJIT students to buy and sell textbooks, lab coats,
-PC parts, and more — essentially a student-only version of Craigslist.
 
 ### Getting Started
 
@@ -44,7 +46,7 @@ about system configurations or compatibility issues.
 
 ---
 
-### Setup Guides
+### Environment Preparation
 
 Now that you understand the importance of these tools,
 follow the steps below to set them up:
@@ -57,10 +59,12 @@ follow the steps below to set them up:
 
 #### Docker Setup
 
-- [Docker Overview](docker.md)  
-  A general introduction to Docker and its core concepts.
 - [Setting up Docker](docker_setup.md)  
   Step-by-step guide to installing and configuring Docker.
+- [Docker Overview](docker.md)  
+  A general introduction to Docker and its core concepts.
+
+---
 
 ### System Foundations
 
@@ -96,12 +100,12 @@ driving business operations and enhancing industry practices.
   Understanding how Kubernetes contributes
   to industry scalability and business functions.
 
+---
+
 ### Documentation & References
 
 - [Documentation](documentation.md)  
   Links to various resources related to the topics covered above.
-
----
 
 #### Contributors
 

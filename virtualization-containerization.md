@@ -12,6 +12,7 @@ except it doesn't virtualize a whole hardware machine;
 rather, it is a software package with
 the dependencies needed to execute software applications.
 
-![Virtualization and Containerization](https://i0.wp.com/www.nitendratech.com/wp-content/uploads/2020/08/container_vs_vm.png?fit=931%2C501&ssl=1)
+![IS373 Viruatlization Containerization Diagram ](https://github.com/user-attachments/assets/8a19e394-7340-4b20-8274-0657bc39bbe0)
+
 
 ---
