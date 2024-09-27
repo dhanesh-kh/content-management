@@ -18,7 +18,8 @@ and tasks containers to run on those machines.
 - Makes workloads portable and runs applications
 through multiple environments with consistency.
 
-![Kubernetes Architecture](https://platform9.com/wp-content/uploads/2019/05/kubernetes-constructs-concepts-architecture.jpg)
+![Kubernetes architecture](https://github.com/user-attachments/assets/3bdce5ff-5c93-4638-9aa4-53b0d82e3f99)
+
 
 ## Why Choose Docker over Kubernetes?
 
